@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Loomise aeg: Okt 05, 2013 kell 06:39 PM
+-- Loomise aeg: Okt 06, 2013 kell 07:30 PM
 -- Serveri versioon: 5.5.32
 -- PHP versioon: 5.4.19
 
